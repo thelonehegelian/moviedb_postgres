@@ -23,7 +23,9 @@ TODO:
       - "5243:5432"
   ```
 
-- run command `docker-compose up`
+- run `docker-compose up`
+In a seaparate terminal: 
 - run `docker exec -it <containername> bash`
 - run `psql -d postgres -U <POSTGRES_USER>` or `psql -U <POSTGRES_USER>`
+- to remove the container run `docker-compose down`
 
