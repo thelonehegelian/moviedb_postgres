@@ -1,6 +1,8 @@
 # Instruction for setting up a docker postgres db
 
 - create yaml file with settings: 
+
+
   ```json
   version: "3.9"
 services:
