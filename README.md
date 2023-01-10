@@ -16,5 +16,5 @@ services:
 
 - run command `docker-compose up`
 - run `docker exec -it <containername> bash`
-- run `psql -d postgres -U <POSTGRES_USER>` 
+- run `psql -d postgres -U <POSTGRES_USER>` or `psql -U <POSTGRES_USER>`
 
