@@ -3,6 +3,7 @@ TODO:
 
 - Fix insert query (creation query ran successfully)
 - expand db for dynamic tasks
+- try diesel crate: https://diesel.rs/guides/getting-started.html
 
 # Instruction for setting up a docker postgres db
 
