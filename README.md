@@ -1,3 +1,9 @@
+TODO: 
+---
+
+- Fix insert query (creation query ran successfully)
+- expand db for dynamic tasks
+
 # Instruction for setting up a docker postgres db
 
 - create yaml file with settings: 
@@ -5,7 +11,7 @@
 
   ```json
   version: "3.9"
-services:
+  services:
   postgres:
     image: postgres:14
     environment:
